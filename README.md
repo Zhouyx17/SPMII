@@ -1,5 +1,5 @@
 # SPMII
-The code repo of meituan project
+The code repo of SPMII project
 ## requirements
 See requirements.txt. Some packages are not necessary.
 ## Data Preprocessing
