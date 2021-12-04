@@ -11,5 +11,6 @@ Run run_bert_chinese.py for train and evaluate model by k-folds.
 More efficient method is needed for leveraging the full train set.
 #### Test
 Run run_bert_chinese_test.py
+### TextCNN
 #### Train
 Run word_dict_generation.py first to generate the token to id dictionary, then run run_textcnn.py to train the textCNN model. Acc ~70%
