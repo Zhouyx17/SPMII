@@ -15,7 +15,7 @@ Run run_bert_chinese_test.py
 #### Train
 Run word_dict_generation.py first to generate the token to id dictionary, then run run_textcnn.py to train the textCNN model. Acc ~70%
 ## Ensembling
-Two ensembling methods are provided: voting and averaging.
+Two ensembling methods are provided: voting and averaging. Some output result files are uploaded for a quickly re-implementation.
 ### Voting
 Run vote_ensembling.py (make sure that you get all the output csv files that you want to ensemble.)
 ### Averaging
