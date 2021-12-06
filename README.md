@@ -17,7 +17,7 @@ Run word_dict_generation.py first to generate the token to id dictionary, then r
 ## Ensembling
 Two ensembling methods are provided: voting and averaging.
 ### Voting
-run vote_ensembling.py (make sure that you get all the output csv files that you want to ensemble.)
+Run vote_ensembling.py (make sure that you get all the output csv files that you want to ensemble.)
 ### Averaging
-run soft_ensembling.py (make sure that you get all the output pkl files that you want to ensemble.)
+Run soft_ensembling.py (make sure that you get all the output pkl files that you want to ensemble.)
 *** the pkl file saves the predicted probability of each examples in the test set. The run_bert_chinese_test.py has been modified to generate this file. 
